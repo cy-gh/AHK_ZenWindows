@@ -26,6 +26,13 @@ GitHub: https://github.com/cy-gh/AHK_ZenWindows/
 
 ![About](./ZenWindows-3.png)
 
+## Demo
+
+
+https://github.com/cy-gh/AHK_ZenWindows/assets/71272476/effae93d-a001-47ac-b014-2b0be41de8ae
+
+
+
 ## Options
 
 *Hint:* All options have tooltips which explain their function in detail.
